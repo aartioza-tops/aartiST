@@ -1,0 +1,42 @@
+How to give and take back permission on previllage from user on database 
+
+>> first need to create a user 
+
+	Syntax : 
+	
+	create user 'user_name'@'localhost' identified by 'password';
+
+	ex : craete user 'rushil'@'localhost' identified by 'password';
+
+>> give permission to the user 
+
+	GRANT : use to give permission
+
+	Syntax : grant previllage_name on database_name.table_name to 'user_name'@'localhost';
+
+	ex : grant select/all on abc.employee to 'rushil'@'localhost';
+
+>> to take back permission from user 
+	
+	REVOKE : use to take permission back 	
+	
+	Syntax : revoke previllage_name on database_name.table_name from 'user_name'@'localhost';
+
+	ex : revoke select/all on abc.employee from 'rushil'@'localhost';
+
+
+>> How to delete user we have created ? 
+
+	Syntax : 
+		drop user 'user_name'@'localhost';
+	
+	ex : drop user 'rushil'@'localhost';
+
+
+
+
+
+
+
+
+
