@@ -1,0 +1,46 @@
+
+==============================================================================================================
+Applications for testing 
+
+1: 
+https://testautomationpractice.blogspot.com/
+
+2:
+https://demo.nopcommerce.com/
+
+3: 
+https://www.saucedemo.com/
+
+4:
+https://www.demoblaze.com/
+
+5:
+https://orangehrm-demo-6x.orangehrmlive.com/
+
+6:online pet shop
+https://petstore.octoperf.com/actions/Catalog.action
+
+7:computer database
+https://computer-database.gatling.io/computers
+
+Root:
+https://abstracta.us/blog/software-testing/best-demo-websites-for-practicing-different-types-of-software-tests/
+
+
+
+Subapps:
+
+swag labs:
+https://www.saucedemo.com/
+
+Blaze.com:
+https://www.demoblaze.com/
+
+==============================================================================================================
+
+test case examples 
+
+
+180+ Web Application Testing Example Test Cases (Sample Checklist)
+
+https://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/
