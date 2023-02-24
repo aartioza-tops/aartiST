@@ -1,0 +1,12 @@
+xpath
+(1) $x("//input[@type='text']")
+(2) $x("//*[@name='sex']")
+(3) $x("input[contains(@id,'u_f_')]")
+
+selenium practical table
+(4) $x("//table[@id='customer']/tbody/tr[3]/td[3]")
+
+How to create xpath
+//tagName[@attribute='value']
+//input[@name='l_username']
+//*[@name="abc"]
